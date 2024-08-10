@@ -19,6 +19,7 @@ Another thing should be done would be add a bash file to each method so the user
 - [ ] learn `gradio` again, there must be an easy interface for the users to use the `Ceiling` model, no one wants to look at 1000 lines of commands in `README.md` even though it is very useful.
 - [ ] learn `langchain` carefully, in case the job market becomes even worse, it would be easier to find a job in NLP filed compared to CV field.
 - [ ] Finish the Howard video, rewrite the whole `DinoV2` model by using `CUDA` and try to benchemark it, this will serve as a basic practice.
+- [ ] Must understand how onnx and TensorRT work and at least deploy a large model based on those methods.
 
 
 ## Some things to remember in case I forget about it
