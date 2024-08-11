@@ -25,3 +25,4 @@ Another thing should be done would be add a bash file to each method so the user
 ## Some things to remember in case I forget about it
 - [ ] Possible benchmark with both `bfloat16` and `float16` to test if there is any difference in the current pytorch version.
 - [ ] Reimplement all the method in the `fid-flaw` repo by using `lightning`, this should be released as a package.
+- [ ] `onnx` and `TensorRT` and `Triton`, deployment deployment and deployment! 🔥
